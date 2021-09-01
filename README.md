@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Comsats University Islamabad.
+- 🎓 &nbsp; Studying Computer Science at Comsats University Islamabad.
 - 💼 &nbsp; Working in MERN Stack as a Professional.
 - 🌱 &nbsp; Learning more about Cyber Security, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
