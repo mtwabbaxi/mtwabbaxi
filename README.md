@@ -44,8 +44,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.mtwabbaxi.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/iammtw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mtw.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mtwabbaxi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.mtwabbaxi.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://www.mtwabbaxi.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/iammtw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Talha%20Waseem-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mtw.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mtw.dev__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mtwabbaxi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mtwabbaxi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
