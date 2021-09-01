@@ -37,7 +37,6 @@
 
 <a href="https://github.com/mtwabbaxi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtwabbaxi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtwabbaxi&theme=buefy&layout=compact" />
 </a>
 
 <br/>
