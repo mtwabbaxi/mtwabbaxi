@@ -32,6 +32,8 @@ Bachelor Software Engineering (To be graduated in 2022)
 - 🌱 &nbsp; Learning more about Cyber Security, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
+![Github Image](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
