@@ -1,4 +1,28 @@
-<h2> Hey there! I'm Talha.</h2>
+<h1 align="center">Hi there 🙋‍♂️, I'm Muhammad Talha Waseem</h1>
+
+<div display="flex" align="center">
+  <a href="https://www.linkedin.com/in/iammtw/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mtw.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/iammtw">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadtalhawaseem@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ <a href="https://www.pinterest.com/iammtw/_saved/">
+   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+  </a>
+</div>
+
+<h3 align="center">
+A passionate JAM Stack developer from Pakistan <br />
+  <br />
+Bachelor Software Engineering (To be graduated in 2022)
+</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -31,20 +55,3 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-
-<br/>
-
-<a href="https://github.com/mtwabbaxi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtwabbaxi&theme=buefy&show_icons=true" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.mtwabbaxi.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://www.mtwabbaxi.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/iammtw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Talha%20Waseem-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mtw.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mtw.dev-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mtwabbaxi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mtwabbaxi@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
