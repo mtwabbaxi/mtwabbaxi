@@ -56,4 +56,6 @@ Bachelor Software Engineering (To be graduated in 2022)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  
+  <a href="https://app.daily.dev/mtwabbaxi"><img src="https://api.daily.dev/devcards/0a9637f8b9b64d0a81a02bc46dd1b767.png?r=umx" width="400" alt="Muhammad Talha Waseem's Dev Card"/></a>
 
